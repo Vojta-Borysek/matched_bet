@@ -1,0 +1,4 @@
+Betano-'FC Viktoria Plzeň-SK Dynamo České Budějovice' ['1.25', '6.50', '10.50'] ### Smarkets-'FC Viktoria Plzen - SK Ceské Budejovice' ['1.24', '8.6', '17.5']
+Betano-'Aberdeen FC-Eintracht Frankfurt' ['4.80', '4.00', '1.70'] ### Smarkets-'Aberdeen - Eintracht Frankfurt' ['6.2', '4.9', '1.67']
+Betano-'FC Metz-Stade Brestois 29' ['3.45', '3.25', '2.22'] ### Smarkets-'FC Nantes - Stade Brestois 29' ['2.94', '3.65', '3.05']
+Betano-'FC Nantes-Stade Brestois 29' ['2.65', '3.20', '2.77'] ### Smarkets-'FC Metz - Stade Brestois 29' ['3.75', '3.4', '2.28']

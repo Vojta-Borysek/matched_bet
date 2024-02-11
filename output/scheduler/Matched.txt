@@ -1,0 +1,2 @@
+Betano-'AC Sparta Praha-Teplice' ['1.19', '7.20', '14.50'] ### Smarkets-'AC Sparta Praha - FK Teplice' ['1.18', '9.6', '23']
+Betano-'Fleetwood Town-Carlisle United' ['2.12', '3.30', '3.25'] ### Smarkets-'Fleetwood Town - Carlisle United' ['2.06', '4.5', '4.5']

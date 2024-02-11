@@ -1,0 +1,4 @@
+Betano-'Burnley FC - Arsenal FC' ['7.40', '5.00', '1.40'] ### Smarkets-'Burnley - Arsenal' ['10', '5.8', '1.39']
+Betano-'Tottenham Hotspur - Wolverhampton Wanderers' ['1.62', '4.45', '4.85'] ### Smarkets-'Tottenham Hotspur - Wolverhampton' ['1.6', '5', '6']
+Betano-'Galatasaray SK - AC Sparta Praha' ['1.78', '3.75', '4.55'] ### Smarkets-'Galatasaray - AC Sparta Praha' ['1.77', '4.3', '5.9']
+Betano-'Fenerbahce SK - Alanyaspor' ['1.22', '6.70', '12.50'] ### Smarkets-'Fenerbahçe - Alanyaspor' ['1.21', '9', '18.5']

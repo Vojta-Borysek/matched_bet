@@ -1,0 +1,6 @@
+Betano-'AC Sparta Praha-Teplice' ['1.19', '7.20', '14.50'] ### Smarkets-'AC Sparta Praha - FK Teplice' ['1.18', '9.4', '23']
+Betano-'West Bromwich Albion-Norwich City' ['1.87', '3.55', '4.35'] ### Smarkets-'West Bromwich Albion - Stoke City' ['2.48', '3', '6.6']
+Betano-'West Bromwich Albion-Norwich City' ['1.87', '3.55', '4.35'] ### Smarkets-'West Bromwich Albion - Stoke City' ['2.5', '2.96', '6.2']
+Betano-'Hull City-Sunderland' ['2.80', '3.35', '2.55'] ### Smarkets-'Hull City - Sunderland' ['2.76', '4', '2.92']
+Betano-'FC St. Pauli-SV Wehen Wiesbaden-LIVE' ['1.35', '4.70', '9.50'] ### Smarkets-'FC St. Pauli - SV Wehen Wiesbaden' ['1.3', '7', '20']
+Betano-'AC Fiorentina-Hellas Verona' ['1.50', '4.40', '6.60'] ### Smarkets-'Fiorentina - Hellas Verona' ['1.48', '5', '8.2']
